@@ -8,7 +8,7 @@ export const links = [
   {
     index: 0,
     title: "Find me on Github",
-    href: "https://github.com/binu0405",
+    href: "https://github.com/binal0405",
     icon: <FaGithub />,
   },
   {
@@ -20,7 +20,7 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "mailto:binalvasoya2003@gmail.com",
+    href: "mailto:binal.developer2003@gmail.com",
     icon: <FaEnvelope />,
   },
 ];

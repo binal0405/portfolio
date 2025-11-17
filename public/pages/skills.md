@@ -4,38 +4,45 @@
 - web Designing
 - Desktop App Development
 - Web Development (Frontend & Backend)
+- MERN Stack
+- Full Stack
 
-## Programming languages
-- Python
+## Technical Skills
+- HTML
+- Bootstrap
+- CSS
+- Tailwind CSS
+- SCSS
 - JavaScript/TypeScript
   - React.js
+  - Next.js
   - Node.js
   - Express.js
+  - Firebase
+  - Redux
+- MongoDB
+- Firebase
 - C
 - Java
-- Blockchain
+- Blockchain (Basic)
 - Solidity
+- OOP
+- Unit Testing
+- Software Life Cycle
 
-## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
-- Firebase
-- MongoDB
-
-## Cloud
-- Azure
-- Heroku
-- Render
-
-## Vcs
-- Git
+## Tools
+- VS Code
+- Sublime Text
+- Github
+- Postman
+- Chrome Developer Tools
+- Figma
 
 ## Soft Skills
 - Communication
 - Team work
 - Project Management
 - Time Management
+- Continuous Learning
 - Accountability
 - Adaptability

@@ -1,5 +1,7 @@
 # 🥇 Certificates
 
+## [GSoC 2025(Mentor) – Drupal Association](https://summerofcode.withgoogle.com/programs/2025/projects/irxh4wgB)
+- Google Drive Link [Drive](https://drive.google.com/file/d/1k3LG0W_N3iE74cqEhPCeE4rl_sISRPCO/view?usp=drivesdk)
 
 ## [CSS & Javascript- Certification Course for Beginners](https://www.udemy.com/course/css-javascript-certification-course-for-beginners/) 🔗
 - Course:-Udemy

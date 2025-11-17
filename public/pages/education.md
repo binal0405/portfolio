@@ -2,7 +2,7 @@
 
 `2020-2024` [Saffrony Institute Of Technology](https://www.saffrony.ac.in/)
 - **B.E(Bachelors in Engineering)** in Information Technology
-- CPI: 9.18/10
+- CGPA: 9.49/10
 
 `2019-2020` [Sahjanand Vidhyalaya](https://sahjanandvidhyalay.com/contact-us/)
 - **H.S.C** in Science
