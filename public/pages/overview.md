@@ -99,5 +99,5 @@ Actively contributes to group projects and motivates members to achieve common t
 
 ## 📞 Contact Me
 **Name**: Binal J. Patel
-**E-Mail**: [Binal Patel](binal.developer@gmail.com)
+**E-Mail**: [Binal Patel](mailto:binal.developer@gmail.com)
 **LinkedIn**: [Binal Patel](https://www.linkedin.com/in/binal-patel-it-engineer/)
